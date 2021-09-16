@@ -1,0 +1,3 @@
+This is a sample text file.
+This is used to check read and write using java.
+This is third line.
