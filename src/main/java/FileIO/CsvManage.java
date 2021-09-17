@@ -18,7 +18,7 @@ public class CsvManage {
     @Test
     public void testCsv() {
 
-        String filePath = "/Users/anurag/Desktop/Workspace/JAVA/JavaLearning/src/main/resources/CSVFiles/TestCSV.csv";
+        String filePath = "/Users/anurag/Desktop/Workspace/JAVA/JavaLearning/src/main/resources/CSVFiles/TestCSV.CSV";
 
         EditCsvGeneric(filePath, 1, 1, "Testdata");
 
@@ -28,7 +28,7 @@ public class CsvManage {
 
     public void test1() throws IOException, CsvValidationException {
 
-        String filePath = "/Users/anurag/Desktop/Workspace/JAVA/JavaLearning/src/main/resources/CSVFiles/TestCSV.csv";
+        String filePath = "/Users/anurag/Desktop/Workspace/JAVA/JavaLearning/src/main/resources/CSVFiles/TestCSV.CSV";
 
 
 
