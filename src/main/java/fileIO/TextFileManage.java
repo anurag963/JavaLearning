@@ -1,6 +1,5 @@
-package FileIO;
+package fileIO;
 
-import com.opencsv.CSVWriter;
 import org.testng.annotations.Test;
 
 import java.io.*;
